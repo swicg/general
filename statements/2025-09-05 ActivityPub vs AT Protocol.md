@@ -30,4 +30,5 @@ This statement is a call for cooling the temperature of discussions and a remind
 * Robert W. Gehl (author of Move Slowly and Build Bridges) [@rwg@aoir.social](https://aoir.social/@rwg)
 * Juliet Shen (Roost Tools, Robust Open Online Safety Tools) [@julietshen.bsky.social](https://bsky.app/profile/julietshen.bsky.social) / [julietshen@mstdn.social](https://mstdn.social/@julietshen)
 * Erlend Sogge Heggen (Roomy, Muni Town) [@erlend.sh](https://bsky.app/profile/erlend.sh) / [@erlend@writing.exchange](https://writing.exchange/@erlend)
+* Jesse Karmani (frequency) [@jesseplusplus@mastodon.social](https://mastodon.social/@jesseplusplus)
 
