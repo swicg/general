@@ -32,4 +32,5 @@ This statement is a call for cooling the temperature of discussions and a remind
 * Erlend Sogge Heggen (Roomy, Muni Town) [@erlend.sh](https://bsky.app/profile/erlend.sh) / [@erlend@writing.exchange](https://writing.exchange/@erlend)
 * Jesse Karmani (frequency) [@jesseplusplus@mastodon.social](https://mastodon.social/@jesseplusplus)
 * Tantek Çelik (former Social Web Working Group co-chair) [@tantek.com](https://tantek.com/)
+* Bailey Townsend (Independent AT Protocol Developer) [@baileytownsend.dev](https://bsky.app/profile/baileytownsend.dev)
 
