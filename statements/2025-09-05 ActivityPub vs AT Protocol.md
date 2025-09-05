@@ -22,5 +22,5 @@ This statement is a call for cooling the temperature of discussions and a remind
 * Emelia Smith (Author) — [@thisismissem@hachyderm.io](https://hachyderm.io/@thisismissem) / [@thisismissem.social](https://bsky.app/profile/thisismissem.social)
 * Dmitri Zagidulin (Social CG co-chair) -- [@dmitri@social.coop](https://social.coop/@dmitri)
 * Darius Kazemi (Social Web CG member) — [@darius@friend.camp](https://friend.camp/@darius)
-* Nick Gerakines (SmokeSignal + AT Proto Lexicon Community) [@ngerakines.me](https://ngerakines.me/)
+* Nick Gerakines (SmokeSignal + AT Proto Lexicon Community) [@ngerakines.me](https://bsky.app/profile/ngerakines.me)
 * Robert W. Gehl (author of Move Slowly and Build Bridges) [@rwg@aoir.social](https://aoir.social/@rwg)
