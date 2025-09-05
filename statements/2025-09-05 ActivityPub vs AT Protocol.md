@@ -3,7 +3,7 @@
 Date: 5th September 2025
 
 
-Over the past few months in particular, the [Social Web Community Group](https://www.w3.org/community/socialcg/) has seen an uptick in discussions that have been arguing protocol superiority and creating conflict between [ActivityPub](https://www.w3.org/TR/activitypub/) and [AT Protocol](https://atproto.com/), or trying to promote one over the other. These discussions have generally not been productive, created contention within the community that stands in the way of collaboration, and been a hotbed for conflict, disagreements, and misinformation. There has often been significant biases exhibited within these conversations.
+Over the past few months in particular, the [Social Web Community Group](https://www.w3.org/community/socialcg/) has seen an increase in heated discussions online that have been arguing protocol superiority and creating conflict between [ActivityPub](https://www.w3.org/TR/activitypub/) and [AT Protocol](https://atproto.com/), or trying to promote one over the other. These discussions have generally not been productive, created contention within the community that stands in the way of collaboration, and been a hotbed for conflict, disagreements, and misinformation. There has often been significant biases exhibited within these conversations.
 
 ActivtyPub in its current usage does make different design decisions to AT Protocol, but ActivityPub is not necessarily that different from AT Protocol: both are open social web protocols. 
 
