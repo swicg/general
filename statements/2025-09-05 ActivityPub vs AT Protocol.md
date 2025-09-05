@@ -36,4 +36,6 @@ This statement is a call for cooling the temperature of discussions and a remind
 * Anuj Ahooja (A New Social Executive Director & CEO) [@quillmatiq.com](https://bsky.app/profile/quillmatiq.com) / [@quillmatiq@mastodon.social](https://mastodon.social/@quillmatiq)
 * Johannes Ernst (Dazzle Labs, FediForum) [@j12t@j12t.social](https://j12t.social/@j12t) [@j12t.org](https://j12t.org)
 * James (Former SocialCG co-chair) [jamesg.blog](https://jamesg.blog/) (@[jamesg.blog@jamesg.blog](https://fed.brid.gy/r/https://jamesg.blog/))
+* Chris Messina (Citizen Agency, creator of ActivityStreams) [@chrismessina.me](https://chrismessina.me/)
+Tim Chambers, founder of Indieweb.social [@tchambers@indieweb.social](https://indieweb.social/@tchambers)
 
