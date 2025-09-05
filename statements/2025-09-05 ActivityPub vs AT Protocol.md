@@ -20,5 +20,5 @@ This statement is a call for cooling the temperature of discussions and a remind
 ### Co-signed by the following community members:
 
 * Emelia Smith (Author) — [@thisismissem@hachyderm.io](https://hachyderm.io/@thisismissem) / [@thisismissem.social](https://bsky.app/profile/thisismissem.social)
-* Darius Kazemi (Social Web CG member) — [@darius@friend.camp](https://friend.camp/@darius)
 * Dmitri Zagidulin (Social CG co-chair) -- [@dmitri@social.coop](https://social.coop/@dmitri)
+* Darius Kazemi (Social Web CG member) — [@darius@friend.camp](https://friend.camp/@darius)
