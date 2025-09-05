@@ -33,4 +33,5 @@ This statement is a call for cooling the temperature of discussions and a remind
 * Jesse Karmani (frequency) [@jesseplusplus@mastodon.social](https://mastodon.social/@jesseplusplus)
 * Tantek Çelik (former Social Web Working Group co-chair) [@tantek.com](https://tantek.com/)
 * Bailey Townsend (Independent AT Protocol Developer) [@baileytownsend.dev](https://bsky.app/profile/baileytownsend.dev)
+* Anuj Ahooja (A New Social Executive Director & CEO) [@quillmatiq.com](https://bsky.app/profile/quillmatiq.com) / [@quillmatiq@mastodon.social](https://mastodon.social/@quillmatiq)
 
