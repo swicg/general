@@ -28,3 +28,5 @@ This statement is a call for cooling the temperature of discussions and a remind
 * Darius Kazemi (Social Web CG member) — [@darius@friend.camp](https://friend.camp/@darius)
 * Nick Gerakines (SmokeSignal + AT Proto Lexicon Community) [@ngerakines.me](https://bsky.app/profile/ngerakines.me)
 * Robert W. Gehl (author of Move Slowly and Build Bridges) [@rwg@aoir.social](https://aoir.social/@rwg)
+* Juliet Shen (Roost Tools, Robust Open Online Safety Tools) [@julietshen.bsky.social](https://bsky.app/profile/julietshen.bsky.social) / [julietshen@mstdn.social](https://mstdn.social/@julietshen)
+
