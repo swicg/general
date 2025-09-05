@@ -5,7 +5,11 @@ Date: 5th September 2025
 
 Over the past few months in particular, the [Social Web Community Group](https://www.w3.org/community/socialcg/) has seen an uptick in discussions that have been arguing protocol superiority and creating conflict between [ActivityPub](https://www.w3.org/TR/activitypub/) and [AT Protocol](https://atproto.com/), or trying to promote one over the other. These discussions have generally not been productive, created contention within the community that stands in the way of collaboration, and been a hotbed for conflict, disagreements, and misinformation. There has often been significant biases exhibited within these conversations.
 
-ActivtyPub in its current usage does make different design decisions to AT Protocol, but ActivityPub is not necessarily that different from AT Protocol: both are open social web protocols. There is an entire section of the ActivityPub specification that isn't as well known or widely adopted but which, at a high level, provides fairly similar ideas to those emphasized within the AT Protocol community for separation between data, identity and applications. Recently, a taskforce within the Social Web Community Group has been established to advance what is now known as the ActivityPub API.```
+ActivtyPub in its current usage does make different design decisions to AT Protocol, but ActivityPub is not necessarily that different from AT Protocol: both are open social web protocols. 
+
+There is an entire section of the ActivityPub specification that isn't as well known or widely adopted but which, at a high level, provides fairly similar ideas to those emphasized within the AT Protocol community for separation between data, identity and applications. Recently, a taskforce within the Social Web Community Group has been established to advance what is now known as the ActivityPub API. 
+
+Whilst we may have our differences at present, over time those gaps will narrow, as we share a lot more in common than we have differences.
 
 There does not have to be a “winning” protocol. We do not build a better open social web for everyone by fighting and arguing about protocol superiority. That is _**not**_ how we achieve a better open social web. Instead, we must work together, cross-pollinate and share ideas, and participate within each other's communities with respect and mutual understanding. Arguing between us only emboldens those that seek to derail and destroy efforts to build an open social web.
 
