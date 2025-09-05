@@ -23,7 +23,7 @@ This statement is a call for cooling the temperature of discussions and a remind
 
 ### Co-signed by the following community members:
 
-* Emelia Smith (Author) — [@thisismissem@hachyderm.io](https://hachyderm.io/@thisismissem) / [@thisismissem.social](https://bsky.app/profile/thisismissem.social)
+* Emelia Smith (Author, Independent Fediverse / OAuth developer) — [@thisismissem@hachyderm.io](https://hachyderm.io/@thisismissem) / [@thisismissem.social](https://bsky.app/profile/thisismissem.social)
 * Dmitri Zagidulin (Social CG co-chair) -- [@dmitri@social.coop](https://social.coop/@dmitri)
 * Darius Kazemi (Social Web CG member) — [@darius@friend.camp](https://friend.camp/@darius)
 * Nick Gerakines (SmokeSignal + AT Proto Lexicon Community) [@ngerakines.me](https://bsky.app/profile/ngerakines.me)
