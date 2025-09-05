@@ -1,4 +1,4 @@
-# Statement on conversations pitting ActivityPub against AT Protocol
+# Statement on discussions of ActivityPub vs AT Protocol
 
 Date: 5th September 2025
 
