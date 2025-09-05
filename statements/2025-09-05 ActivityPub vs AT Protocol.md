@@ -19,7 +19,7 @@ There has already been cross-pollination of ideas between the people working on 
 
 Both ActivityPub and AT Protocol can and do co-exist. This co-existence is perhaps best emphasized by the outstanding work of [Bridgy Fed](https://fed.brid.gy/) project, which connects ActivityPub, AT Protocol, and other protocols together allowing for interoperability and community that crosses between protocols. If you wanted to summarise this letter on a t-shirt, it would be “People > Protocols > Platforms”.
 
-This statement is a call for cooling the temperature of discussions and a reminder to be respectful of each other and the huge amount of work everyone is putting in to build a better open social web. We do not win by tearing each other down, that only emboldens and empowers those that do not want either protocol to succeed. This statement was written following an initial discussion at this month's [Social Web Community Group meeting](https://www.w3.org/events/meetings/3cfaa5d7-5013-4d32-81be-6988e55fa9ef/20250905T130000/).
+This statement is a call for cooling the temperature of discussions and a reminder to be respectful of each other and the huge amount of work everyone is putting in to build a better open social web. We do not win by tearing each other down, which only emboldens and empowers those who do not want either protocol to succeed. This statement was written following an initial discussion at this month's [Social Web Community Group meeting](https://www.w3.org/events/meetings/3cfaa5d7-5013-4d32-81be-6988e55fa9ef/20250905T130000/).
 
 ### Co-signed by the following community members:
 
