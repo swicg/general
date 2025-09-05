@@ -20,3 +20,4 @@ This statement is a call for cooling the temperature of discussions and a remind
 Undersigned by the following community members:
 
 * Emelia Smith (Author) — [@thisismissem@hachyderm.io](https://hachyderm.io/@thisismissem) / [@thisismissem.social](https://bsky.app/profile/thisismissem.social)
+* Dmitri Zagidulin (Social CG co-chair) -- [@dmitri@social.coop](https://social.coop/@dmitri)
