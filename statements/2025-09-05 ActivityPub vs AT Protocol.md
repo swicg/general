@@ -17,7 +17,7 @@ Both ActivityPub and AT Protocol can and do co-exist. This co-existence is perha
 
 This statement is a call for cooling the temperature of discussions and a reminded to be respectful of each other and the huge amount of work everyone is putting in to build a better open social web. We do not win by tearing each other down, that only emboldens and empowers those that do not want either protocol to succeed. This statement was written following an initial discussion at this month's [Social Web Community Group meeting](https://www.w3.org/events/meetings/3cfaa5d7-5013-4d32-81be-6988e55fa9ef/20250905T130000/).
 
-Undersigned by the following community members:
+### Undersigned by the following community members:
 
 * Emelia Smith (Author) — [@thisismissem@hachyderm.io](https://hachyderm.io/@thisismissem) / [@thisismissem.social](https://bsky.app/profile/thisismissem.social)
 * Dmitri Zagidulin (Social CG co-chair) -- [@dmitri@social.coop](https://social.coop/@dmitri)
