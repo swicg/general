@@ -1,0 +1,20 @@
+# Statement on conversations pitting ActivityPub against AT Protocol
+
+Date: 5th September 2025
+
+
+Over the past few months in particular, the [Social Web Community Group](https://www.w3.org/community/socialcg/) has seen an uptick in discussions that have been arguing protocol superiority and creating conflict between [ActivityPub](https://www.w3.org/TR/activitypub/) and [AT Protocol](https://atproto.com/), or trying to promote one over the other. These discussions have generally not been productive, created contention within the community that stands in the way of collaboration, and been a hotbed for conflict, disagreements, and misinformation. There has often been significant biases exhibited within these conversations.
+
+ActivtyPub in its current usage does make different design decisions to AT Protocol, but ActivityPub is not necessarily that different from AT Protocol: both are open social web protocols. There is an entire section of the ActivityPub specification that isn't as well known or widely adopted but which, at a high level, provides fairly similar ideas to those emphasized within the AT Protocol community for separation between data, identity and applications. Recently, a taskforce within the Social Web Community Group has been established to advance what is now known as the ActivityPub API. Additionally, there has already been cross-pollination of ideas from between the people working on ActivityPub or AT Protocol, with AT Protocol adopting an internet draft that was originally written to support the ActivityPub ecosystem, and with ActivityPub starting to adopt some ideas on moderation & trust and safety from AT Protocol.
+
+There does not have to be a “winning” protocol. We do not build a better open social web for everyone by fighting and arguing about protocol superiority. That is _**not**_ how we achieve a better open social web. Instead, we must work together, cross-pollinate and share ideas, and participate within each other's communities with respect and mutual understanding. Arguing between us only emboldens those that seek to derail and destroy efforts to build an open social web.
+
+The practice of collaboration outside of our own groups has a long history within the standards community, whether that is with competing companies working together on standards or protocols, or collaboration between different standards bodies like the W3C and IETF.
+
+Both ActivityPub and AT Protocol can and do co-exist. This co-existence is perhaps best emphasized by the outstanding work of [Bridgy Fed](https://fed.brid.gy/) project, which connects ActivityPub, AT Protocol, and other protocols together allowing for interoperability and community that crosses between protocols. If you wanted to summarise this letter on a t-shirt, it would be “People > Protocols > Platforms”.
+
+This statement is a call for cooling the temperature of discussions and a reminded to be respectful of each other and the huge amount of work everyone is putting in to build a better open social web. We do not win by tearing each other down, that only emboldens and empowers those that do not want either protocol to succeed. This statement was written following an initial discussion at this month's [Social Web Community Group meeting](https://www.w3.org/events/meetings/3cfaa5d7-5013-4d32-81be-6988e55fa9ef/20250905T130000/).
+
+Undersigned by the following community members:
+
+* Emelia Smith (Author) — [@thisismissem@hachyderm.io](https://hachyderm.io/@thisismissem) / [@thisismissem.social](https://bsky.app/profile/thisismissem.social)
