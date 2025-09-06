@@ -50,7 +50,7 @@ This statement was written following an initial discussion at this month's [Soci
 * Hailey Elizabeth (AT Protocol, Bluesky Social) — [@hailey.at](https://bsky.app/profile/hailey.at)
 * Michael Foster (The Newsmast Foundation) 
 * Jaz-Michael King (Executive Director, IFTAS) — [@jaz@toot.wales](https://toot.wales/@jaz) / @jaz.co.uk
-* Christine Lemmer-Webber (Executive Director of Spritely, ActivityPub co-author) — [@cwebber](https://social.coop/@cwebber)
+* Christine Lemmer-Webber (Executive Director of Spritely, ActivityPub co-author/co-editor) — [@cwebber](https://social.coop/@cwebber) / https://dustycloud.org
 
 [Information for additional co-signers](https://github.com/swicg/general/issues/46).
 
