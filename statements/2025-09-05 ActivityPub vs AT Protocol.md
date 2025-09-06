@@ -46,4 +46,7 @@ This statement is a call for cooling the temperature of discussions and a remind
 * David Buchanan (AT Protocol, Bluesky Social) — [@retr0.id](https://bsky.app/profile/retr0.id) / `@retr0id@retr0.id`
 * Hong Minhee (Author of Fedify and Hollo) — [@hongminhee@hollo.social](https://hollo.social/@hongminhee) / [@hongminhee.org](https://bsky.app/profile/hongminhee.org)
 * Hailey Elizabeth (AT Protocol, Bluesky Social) — [@hailey.at](https://bsky.app/profile/hailey.at)
+* Michael Foster (The Newsmast Foundation) 
+* Jaz-Michael King (Executive Director, IFTAS) — [@jaz@toot.wales](https://toot.wales/@jaz) / @jaz.co.uk
+* Christine Lemmer-Webber (Executive Director of Spritely, ActivityPub co-author) — [@cwebber](https://social.coop/@cwebber)
 
