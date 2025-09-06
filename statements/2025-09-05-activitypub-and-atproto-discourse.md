@@ -1,3 +1,68 @@
 # Statement on discourse about ActivityPub and AT Protocol
 
-A statement was originally published here, however, we have since received an objections to its publication citing that proper processes were not followed, and therefore it has been taken down and republished on [Emelia's website](https://writings-of-emelia.ghost.io/ghost/#/editor/post/68bc6df01b0dd9000148f86e) instead, whilst we seek community group consensus. When Emelia merged the pull request, she had been granted permission to do so by the co-chair of the Social Web CG, and given the number of signatories with various significant contributions to ActivityPub and ActivityStreams, Emelia believed that there was enough agreement to publish.
+Date: 6th September 2025
+
+A community letter on the recent heated discourse about ActivityPub and AT Protocol, co-signed by the people working on or with the respective protocols.
+
+---
+
+
+Over the past few months in particular, the [Social Web Community Group](https://www.w3.org/community/socialcg/) has seen an increase in heated discussions online that have been arguing protocol superiority and creating conflict between [ActivityPub](https://www.w3.org/TR/activitypub/) and [AT Protocol](https://atproto.com/), or trying to promote one over the other. These discussions have generally not been productive, created contention within the community that stands in the way of collaboration, and been a hotbed for conflict, disagreements, and misinformation. There has often been significant biases exhibited within these conversations.
+
+ActivtyPub in its current usage does make different design decisions to AT Protocol, but ActivityPub is not necessarily that different from AT Protocol: both are open social web protocols. 
+
+There is an entire section of the ActivityPub specification that isn't as well known or widely adopted but which, at a high level, provides fairly similar ideas to those emphasized within the AT Protocol community for separation between data, identity and applications. Recently, a taskforce within the Social Web Community Group has been established to advance what is now known as the ActivityPub API. 
+
+Whilst we may have our differences at present, over time those gaps will narrow, as we share a lot more in common than we have differences.
+
+There does not have to be a “winning” protocol. We do not build a better open social web for everyone by fighting and arguing about protocol superiority. That is _**not**_ how we achieve a better open social web. Instead, we must work together, cross-pollinate and share ideas, and participate within each other's communities with respect and mutual understanding. Arguing between us only emboldens those that seek to derail and destroy efforts to build an open social web.
+
+The practice of collaboration outside of our own groups has a long history within the standards community, whether that is with competing companies working together on standards or protocols, or collaboration between different standards bodies like the W3C and IETF.
+
+There has already been cross-pollination of ideas between the people working on ActivityPub and AT Protocol. For example, AT Protocol adopted an [internet draft](https://www.ietf.org/archive/id/draft-parecki-oauth-client-id-metadata-document-03.html) that was originally written to support the ActivityPub ecosystem, and projects within ActivityPub have adopted some ideas on [content labeling](https://github.com/swicg/activitypub-trust-and-safety/issues/84) and [starter packs](https://fedidevs.com/starter-packs/) from the AT Protocol ecosystem.
+
+Both ActivityPub and AT Protocol can and do co-exist. This co-existence is perhaps best emphasized by the outstanding work of [Bridgy Fed](https://fed.brid.gy/) project, which connects ActivityPub, AT Protocol, and other protocols together allowing for interoperability and community that crosses between protocols. If you wanted to summarise this letter on a t-shirt, it would be “People > Protocols > Platforms”.
+
+This statement is a call for cooling the temperature of discussions and a reminder to be respectful of each other and the huge amount of work everyone is putting in to build a better open social web. We do not win by tearing each other down, which only emboldens and empowers those who do not want either protocol to succeed.
+
+This statement was written following an initial discussion at this month's [Social Web Community Group meeting](https://github.com/swicg/meetings/tree/main/2025-09-05), and has been reviewed by several members of the CG.
+
+### Co-signed by the following community members:
+
+*   Emelia Smith (Author, Independent Fediverse / OAuth developer) — [@thisismissem@hachyderm.io](https://hachyderm.io/@thisismissem) / [@thisismissem.social](https://bsky.app/profile/thisismissem.social)
+*   Dmitri Zagidulin (Social CG co-chair) — [@dmitri@social.coop](https://social.coop/@dmitri)
+*   Darius Kazemi (Social Web CG member) — [@darius@friend.camp](https://friend.camp/@darius)
+*   Nick Gerakines (SmokeSignal + AT Proto Lexicon Community) — [@ngerakines.me](https://bsky.app/profile/ngerakines.me)
+*   Robert W. Gehl (Author of Move Slowly and Build Bridges) — [@rwg@aoir.social](https://aoir.social/@rwg)
+*   Juliet Shen (Roost Tools, Robust Open Online Safety Tools) — [@julietshen.bsky.social](https://bsky.app/profile/julietshen.bsky.social) / [julietshen@mstdn.social](https://mstdn.social/@julietshen)
+*   Erlend Sogge Heggen (Roomy, Muni Town) — [@erlend.sh](https://bsky.app/profile/erlend.sh) / [@erlend@writing.exchange](https://writing.exchange/@erlend)
+*   Jesse Karmani (Frequency) — [@jesseplusplus@mastodon.social](https://mastodon.social/@jesseplusplus)
+*   Tantek Çelik (Former Social Web Working Group co-chair) — [@tantek.com](https://tantek.com/)
+*   Bailey Townsend (Independent AT Protocol Developer) — [@baileytownsend.dev](https://bsky.app/profile/baileytownsend.dev)
+*   Anuj Ahooja (A New Social Executive Director & CEO) — [@quillmatiq.com](https://bsky.app/profile/quillmatiq.com) / [@quillmatiq@mastodon.social](https://mastodon.social/@quillmatiq)
+*   Johannes Ernst (Dazzle Labs, FediForum) — [@j12t@j12t.social](https://j12t.social/@j12t) [@j12t.org](https://j12t.org)
+*   James (Former SocialCG co-chair) — [jamesg.blog](https://jamesg.blog/) ([@jamesg.blog@jamesg.blog](https://fed.brid.gy/r/https://jamesg.blog/))
+*   Chris Messina (Citizen Agency, creator of ActivityStreams) — [@chrismessina.me](https://chrismessina.me/)
+*   Tim Chambers (Founder of Indieweb.social) — [@tchambers@indieweb.social](https://indieweb.social/@tchambers)
+*   Bryan Newbold (AT Protocol, Bluesky Social) — [@bnewbold.net](https://bsky.app/profile/bnewbold.net) [@bnewbold@social.coop](https://social.coop/@bnewbold)
+*   David Buchanan (AT Protocol, Bluesky Social) — [@retr0.id](https://bsky.app/profile/retr0.id) / `@retr0id@retr0.id`
+*   Hong Minhee (Author of Fedify and Hollo) — [@hongminhee@hollo.social](https://hollo.social/@hongminhee) / [@hongminhee.org](https://bsky.app/profile/hongminhee.org)
+*   Hailey Elizabeth (AT Protocol, Bluesky Social) — [@hailey.at](https://bsky.app/profile/hailey.at)
+*   Michael Foster (The Newsmast Foundation)
+*   Jaz-Michael King (Executive Director, IFTAS) — [@jaz@toot.wales](https://toot.wales/@jaz) / @jaz.co.uk
+*   Christine Lemmer-Webber (Executive Director of Spritely, ActivityPub co-author/co-editor) — [@cwebber](https://social.coop/@cwebber) / [https://dustycloud.org](https://dustycloud.org)
+*   Christopher Jr Riley (The ATProtoKit Project) — @cjrriley.ca
+*   Gabriel Amador (Wafrn developer, activitypub and atproto independent developer) - @gabboman@app.wafrn.net / @gabboman.at.app.wafrn.net
+*   Damon (We Distribute) / @damonoutlaw.xyz
+*   Lim Chee Aun (Phanpy) – [@cheeaun@mastodon.social](https://mastodon.social/@cheeaun) / [@cheeaun.com](https://bsky.app/profile/cheeaun.com)
+*   Dan Appelquist (Co-Chair of the W3C Advisory Board) - [@torgo](https://mastodon.social/@torgo) / [@torgo.com](https://bsky.app/profile/torgo.com) / [https://torgo.com](https://torgo.com)
+*   Kagami Sascha Rosylight (Individual Misskey contributor) — [https://fosstodon.org/@krosylight](https://fosstodon.org/@krosylight)
+*   Ted Han (ATProto Community Fund & IFTAS advisor) - ([@knowtheory.net](https://bsky.app/profile/knowtheory.net) / [@ted@an.errant.cloud](https://an.errant.cloud/@ted))
+*   Manton Reece (Micro.blog founder) — [@manton@manton.org](https://manton.org/activitypub/manton) / [@manton.org](https://bsky.app/profile/manton.org)
+*   Sean O'Brien (Yale Privacy Lab, W3C Social CG) - @profdiggity@privacysafe.social
+*   Roscoe Rubin-Rottenberg (Spark Social, ATP Airport) - [@knotbin.com](https://bsky.app/profile/knotbin.com)
+*   phil (microcosm.blue) – [@bad-example.com](https://bsky.app/profile/bad-example.com)
+*   Blaine Cook (New\_ Public, creator of OAuth and founding engineer of Twitter) [blaine@mastodon.social](https://mastodon.social/@blaine) / [blaine.bsky.social](http://blaine.bsky.social/)
+*   Bart-Jan Schuman (various OpenSocialWeb efforts) - @schuman.de / @[Schuman@mastodon.nl](mailto:Schuman@mastodon.nl)
+
+_additional signatures may be added later._
