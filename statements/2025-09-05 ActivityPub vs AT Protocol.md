@@ -43,5 +43,5 @@ This statement is a call for cooling the temperature of discussions and a remind
 * Chris Messina (Citizen Agency, creator of ActivityStreams) [@chrismessina.me](https://chrismessina.me/)
 * Tim Chambers (Founder of Indieweb.social) [@tchambers@indieweb.social](https://indieweb.social/@tchambers)
 * Bryan Newbold (AT Protocol, Bluesky Social) [@bnewbold.net](https://bsky.app/profile/bnewbold.net) [@bnewbold@social.coop](https://social.coop/@bnewbold)
-* David Buchanan (AT Protocol, Bluesky Social) [@retr0.id](https://bsky.app/profile/retr0.id) / @retr0id@retr0.id
+* David Buchanan (AT Protocol, Bluesky Social) [@retr0.id](https://bsky.app/profile/retr0.id) / `@retr0id@retr0.id`
 
