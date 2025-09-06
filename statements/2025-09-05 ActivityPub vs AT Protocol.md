@@ -2,7 +2,7 @@
 
 Date: 6th September 2025
 
-A community letter on recent discourse on ActivityPub and AT Protocol, co-signed by the people working on or with the respective protocols.
+A community letter on the recent heated discourse about ActivityPub and AT Protocol, co-signed by the people working on or with the respective protocols.
 
 ---
 
