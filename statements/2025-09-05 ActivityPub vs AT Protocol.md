@@ -39,7 +39,7 @@ This statement is a call for cooling the temperature of discussions and a remind
 * Bailey Townsend (Independent AT Protocol Developer) [@baileytownsend.dev](https://bsky.app/profile/baileytownsend.dev)
 * Anuj Ahooja (A New Social Executive Director & CEO) [@quillmatiq.com](https://bsky.app/profile/quillmatiq.com) / [@quillmatiq@mastodon.social](https://mastodon.social/@quillmatiq)
 * Johannes Ernst (Dazzle Labs, FediForum) [@j12t@j12t.social](https://j12t.social/@j12t) [@j12t.org](https://j12t.org)
-* James (Former SocialCG co-chair) [jamesg.blog](https://jamesg.blog/) (@[jamesg.blog@jamesg.blog](https://fed.brid.gy/r/https://jamesg.blog/))
+* James (Former SocialCG co-chair) [jamesg.blog](https://jamesg.blog/) ([@jamesg.blog@jamesg.blog](https://fed.brid.gy/r/https://jamesg.blog/))
 * Chris Messina (Citizen Agency, creator of ActivityStreams) [@chrismessina.me](https://chrismessina.me/)
 * Tim Chambers (Founder of Indieweb.social) [@tchambers@indieweb.social](https://indieweb.social/@tchambers)
 * Bryan Newbold (AT Protocol, Bluesky Social) [@bnewbold.net](https://bsky.app/profile/bnewbold.net) [@bnewbold@social.coop](https://social.coop/@bnewbold)
