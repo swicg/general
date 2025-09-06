@@ -38,4 +38,5 @@ This statement is a call for cooling the temperature of discussions and a remind
 * James (Former SocialCG co-chair) [jamesg.blog](https://jamesg.blog/) (@[jamesg.blog@jamesg.blog](https://fed.brid.gy/r/https://jamesg.blog/))
 * Chris Messina (Citizen Agency, creator of ActivityStreams) [@chrismessina.me](https://chrismessina.me/)
 * Tim Chambers, founder of Indieweb.social [@tchambers@indieweb.social](https://indieweb.social/@tchambers)
+* Bryan Newbold (AT Protocol, Bluesky Social) [@bnewbold.net](https://bsky.app/profile/bnewbold.net) [@bnewbold@social.coop](https://social.coop/@bnewbold)
 
