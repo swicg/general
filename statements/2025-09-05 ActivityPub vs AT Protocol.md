@@ -44,4 +44,5 @@ This statement is a call for cooling the temperature of discussions and a remind
 * Tim Chambers (Founder of Indieweb.social) [@tchambers@indieweb.social](https://indieweb.social/@tchambers)
 * Bryan Newbold (AT Protocol, Bluesky Social) [@bnewbold.net](https://bsky.app/profile/bnewbold.net) [@bnewbold@social.coop](https://social.coop/@bnewbold)
 * David Buchanan (AT Protocol, Bluesky Social) [@retr0.id](https://bsky.app/profile/retr0.id) / `@retr0id@retr0.id`
+* Hong Minhee (Author of Fedify and Hollo) [@hongminhee@hollo.social](https://hollo.social/@hongminhee) / [@hongminhee.org](https://bsky.app/profile/hongminhee.org)
 
