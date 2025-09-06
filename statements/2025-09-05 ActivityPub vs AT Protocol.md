@@ -52,3 +52,5 @@ This statement was written following an initial discussion at this month's [Soci
 * Jaz-Michael King (Executive Director, IFTAS) — [@jaz@toot.wales](https://toot.wales/@jaz) / @jaz.co.uk
 * Christine Lemmer-Webber (Executive Director of Spritely, ActivityPub co-author) — [@cwebber](https://social.coop/@cwebber)
 
+[Information for additional co-signers](https://github.com/swicg/general/issues/46).
+
